@@ -1,5 +1,5 @@
 # 3at-alg
-3ª Avaliação Teórica de Algoritmos e Estruturas de Dados.
+3ª Avaliação Teórica de Algoritmos e Estruturas de Dados. Feito em dupla com Belchior França
 
 Para usar lembrar de colocar todas as classes inseridas dentro do mesmo "package"
 
